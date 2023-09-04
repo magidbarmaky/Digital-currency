@@ -1,2 +1,1 @@
-# sip_system
-Unauthorized image transfer script with Python
+#Display the current price of digital currencies
