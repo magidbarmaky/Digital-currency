@@ -35,9 +35,11 @@ import matplotlib.pyplot as plt
 <h4>قیمت لحظه ای دیسنترالند</h4>
 <p>https://api.nobitex.ir/v2/orderbook/MANAIRT</p>
 
-<h4>قیمت لحظه ای BTC</h4>
+<h4>قیمت لحظه ای دوج کویین</h4>
+<p>https://api.nobitex.ir/v2/orderbook/DOGEIRT</p>
 
-<h4>قیمت لحظه ای BTC</h4>
+<h4>قیمت لحظه ای ریپل</h4>
+<p>https://api.nobitex.ir/v2/orderbook/XRPIRT</p>
 
 <h4>قیمت لحظه ای BTC</h4>
 
