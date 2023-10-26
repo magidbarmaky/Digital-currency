@@ -41,14 +41,6 @@ import matplotlib.pyplot as plt
 <h4>قیمت لحظه ای ریپل</h4>
 <p>https://api.nobitex.ir/v2/orderbook/XRPIRT</p>
 
-<h4>قیمت لحظه ای BTC</h4>
+<h4>قیمت لحظه ای کاردانو</h4>
+<p>https://api.nobitex.ir/v2/orderbook/ADAIRT</p>
 
-<h4>قیمت لحظه ای BTC</h4>
-
-<h4>قیمت لحظه ای BTC</h4>
-
-<h4>قیمت لحظه ای BTC</h4>
-
-<h4>قیمت لحظه ای BTC</h4>
-
-<h4>قیمت لحظه ای BTC</h4>
