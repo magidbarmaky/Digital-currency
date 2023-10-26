@@ -17,4 +17,6 @@ import matplotlib.pyplot as plt
 ```
 # API used
 
-ما از مجموعه وبسرویس های وبسایت  <a href=https://api.nobitex.ir> نوبیتکس.</a> کمک گرفتیم . 
+ما از مجموعه وبسرویس های وبسایت  <a href=https://api.nobitex.ir> نوبیتکس.</a> کمک گرفتیم . و 
+با کمک ماژول requests درخواست ها رو به سرور نوبیتکس ارسال کردیم همچنین با کتابخانه  matplotlib.pyplot دیتای استخراج شده را به صورت نمودار نشان داده ایم .
+
