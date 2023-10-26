@@ -17,3 +17,4 @@ import matplotlib.pyplot as plt
 ```
 # API used
 
+ما از مجموعه وبسرویس های وبسایت  <a href=https://api.nobitex.ir> نوبیتکس.</a> کمک گرفتیم . 
